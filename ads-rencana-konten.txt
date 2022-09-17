@@ -4,6 +4,7 @@ Rencana konten ads
 * ES6
 * Framework JS
   ^Vue
+  ^React
 -Struktur Data Dasar
 -php framework
   * Laravel
