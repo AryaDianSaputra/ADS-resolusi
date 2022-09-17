@@ -3,5 +3,6 @@ Rencana konten ads
 -Javascript
 * ES6
 * Framework JS
+-Struktur Data Dasar
 -php framework
 -vlogs
