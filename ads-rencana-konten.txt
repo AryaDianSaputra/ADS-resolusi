@@ -5,6 +5,7 @@ Rencana konten ads
 * Framework JS
   ^Vue
   ^React
+  ^Angular
 -Struktur Data Dasar
 -php framework
   * Laravel
