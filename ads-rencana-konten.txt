@@ -1,5 +1,7 @@
 Rencana konten ads
 
 -Javascript
+* ES6
+* Framework JS
 -php framework
 -vlogs
